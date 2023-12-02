@@ -28,9 +28,9 @@ export default {
       message: '',
       loading: true,
       //控制分页的数据
-      total: 0,
+      total: 5,
       pageNum: 1,
-      pageSize: 4
+      pageSize: 2
 
     };
   },
